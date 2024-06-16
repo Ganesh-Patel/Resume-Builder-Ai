@@ -1,3 +1,3 @@
-https://ganesh-patel.github.io/BookSeller-Project/
+https://ganesh-patel.github.io/Resume-Builder-Ai/
 
-https://singular-gumdrop-6525ab.netlify.app/
+https://genuine-cheesecake-87a827.netlify.app/
