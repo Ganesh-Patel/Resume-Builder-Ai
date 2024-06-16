@@ -1,4 +1,5 @@
 const tempBtn=document.getElementById('templatebtn');
+let globalSkills = [];
 
 tempBtn.addEventListener('click', function() {
     window.location.href = 'template.html'; 
@@ -161,6 +162,8 @@ const getUserInputs = () => {
     projDescriptionElem = document.querySelectorAll('.proj_description');
 
     let skillElem = document.querySelectorAll('.skill');
+    globalSkills = Array.from(skillElem).map(elem => elem.value);
+    // console.log(`your all skils are ${globalSkills}`);
 
     // event listeners for form validation
     firstnameElem.addEventListener('keyup', (e) => validateFormData(e.target, validType.TEXT, 'First Name'));
@@ -303,8 +306,6 @@ function previewImage(){
 function printCV(){
     window.print();
 }
-
-
 // form repeater
 $(document).ready(function(){
     $('.repeater').repeater({

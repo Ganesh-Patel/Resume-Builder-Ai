@@ -215,8 +215,6 @@ const generateCV = () => {
 }
 
 
-
-
 function previewImage(){
     let oFReader = new FileReader();
     oFReader.readAsDataURL(imageElem.files[0]);
