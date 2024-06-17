@@ -141,6 +141,28 @@ body {
     .navbar-right button {
         margin: 5px;
     }
+    .carousel-button {
+        position: absolute;
+        top: 120%;
+        transform: translateY(-80%);
+        background-color: var(--btn-color1);
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        z-index: 1;
+    }
+    .tempimg{
+        height: 100%;
+        width: 60%;
+        margin-top: 20px;
+    }
+    .carousel-item {
+        min-width: 60%;
+        transition: opacity 1s ease;
+        opacity: 0;
+        display: none;
+    }
 }
 .main{
     margin-top: 11vh;
@@ -149,10 +171,63 @@ body {
 }
 
 .tempimg{
-    height: 50%;
-    width: 70%;
+    height: 100%;
+    width: 100%;
     margin-top: 20px;
 }
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.carousel-inner {
+    display: flex;
+    /* padding: 8rem;
+    margin: 8rem; */
+    transition: transform 0.5s ease;
+}
+
+.carousel-item {
+    min-width: 100%;
+    transition: opacity 1s ease;
+    padding: 6rem;
+    opacity: 0;
+    display: none;
+}
+
+.carousel-item.active {
+    opacity: 1;
+    display: block;
+}
+
+.carousel-button {
+    position: absolute;
+    top: 80%;
+    transform: translateY(-50%);
+    background-color:  var(--btn-color1);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+.carousel-button:focus {
+    outline: none;
+}
+
 .footer {
     width: 100%;
     padding: 29px 0;
