@@ -1,3 +1,9 @@
+const templatebtn = document.getElementById("templatebtn");
+
+templatebtn.addEventListener('click', function() {
+    window.location.href = 'template.html'; 
+});
+
 // regex for validation
 const strRegex =  /^[a-zA-Z\s]*$/; // containing only letters
 const emailRegex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
