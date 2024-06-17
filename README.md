@@ -22,19 +22,24 @@ ResumeAI is a cutting-edge resume builder that leverages AI to help candidates c
 ## Screenshots
 
 ### Login Page
-![Login Page](https://your-image-link.com/loginpage.png)
+![sc1](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/5bb3903b-a4ee-452e-b852-ea30bf67d93b)
+![sc2](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/cde937ff-660a-463f-b7e1-62aee470ba63)
 
 ### Home Page
-![Home Page](https://your-image-link.com/homepage.png)
+![sc3](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/688c12a9-6267-4ed8-9521-06db814489f6)
+![Sc4](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/ab5d1be9-2615-4e8e-b8da-9e2077f29964)
 
 ### Resume Builder
-![Resume Builder](https://your-image-link.com/resumebuilder.png)
+![Sc5](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/fa7d78b3-de08-4601-a38f-8d8019a12cce)
+
 
 ### Job Suggestions
-![Job Suggestions](https://your-image-link.com/jobsuggestions.png)
+![sc6](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/0e26386f-c098-40fb-99a7-92e2f80cfceb)
+
 
 ### Roadmap Suggestions
-![Roadmap Suggestions](https://your-image-link.com/roadmapsuggestions.png)
+![sc7](https://github.com/Ganesh-Patel/Resume-Builder-Ai/assets/148999574/31e18a52-6534-40ae-ba42-ab76ea5c57fc)
+
 
 ## Installation
 
