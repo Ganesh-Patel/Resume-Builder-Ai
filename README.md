@@ -21,11 +21,11 @@ ResumeAI is a cutting-edge resume builder that leverages AI to help candidates c
 
 ## Screenshots
 
-### Home Page
-![Home Page](https://your-image-link.com/homepage.png)
-
 ### Login Page
 ![Login Page](https://your-image-link.com/loginpage.png)
+
+### Home Page
+![Home Page](https://your-image-link.com/homepage.png)
 
 ### Resume Builder
 ![Resume Builder](https://your-image-link.com/resumebuilder.png)
