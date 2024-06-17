@@ -83,7 +83,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- **Ganesh Patel** - *Initial work* - [Your GitHub](https://github.com/Ganesh-Patel)
+- **Ganesh Patel** - *Initial work* - [Ganesh-Patel](https://github.com/Ganesh-Patel)
 
 ## Acknowledgments
 
